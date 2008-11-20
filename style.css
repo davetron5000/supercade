@@ -1,0 +1,345 @@
+body,p
+{
+    font-family: "Gill Sans",Arial,sans-serif;
+    color: #FFFFFF;
+    width:800px;
+    background-color: #000000;
+}
+
+img
+{
+    border: none;
+}
+
+a:hover
+{
+    text-decoration: underline;
+}
+
+a:link
+{
+    color: #019A9A;
+}
+a:visited
+{
+    color: #019A9A;
+}
+
+div#header
+{
+    font: 20pt bold "Gill Sans",Arial,sans-serif;
+    font-variant: small-caps;
+    white-space: nowrap;
+    vertical-align: top;
+    margin: 0px;
+    padding: 0px;
+    padding-bottom: 10px;
+    width: 100%;
+    background-color:#000000;
+}
+
+img.header
+{
+    vertical-align: middle;
+}
+
+div#nav
+{
+    border-bottom: 3px solid #019A9A;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    white-space: nowrap;
+    background-color:#000000;
+}
+
+a.headerlink
+{
+    padding-right: 10px;
+    color: #FFFFFF;
+    font: 18pt bold "Gill Sans",Arial,sans-serif;
+    text-decoration: none;
+}
+table#maintable
+{
+    background-color: #000000;
+    width:100%;
+    height:100%;
+}
+
+td#leftcolumn
+{
+    width: 33%;
+    height:100%;
+    vertical-align: top;
+}
+td#rightcolumn
+{
+    width: 67%;
+    vertical-align: top;
+}
+
+td#centercolumn
+{
+    padding-left: 25%;
+    padding-right: 25%;
+    vertical-align: top;
+}
+
+table#shows
+{
+    width:100%;
+}
+
+td.showdate
+{
+    font: 10pt "Gill Sans",Arial,sans-serif;
+    vertical-align:top;
+    white-space: nowrap;
+}
+td.showvenue
+{
+    font: 10pt "Gill Sans",Arial,sans-serif;
+    vertical-align:top;
+    white-space: nowrap;
+}
+div.showvenue
+{
+    font-size: 9pt;
+    font-style: italic;
+}
+td.showtime
+{
+    font: 10pt "Gill Sans",Arial,sans-serif;
+    vertical-align:top;
+    white-space: nowrap;
+    padding-right: 5px;
+}
+td.showprice
+{
+    font: 10pt "Gill Sans",Arial,sans-serif;
+    vertical-align:top;
+    white-space: nowrap;
+    padding-right: 5px;
+}
+td.showbands
+{
+    font: 9pt "Gill Sans",Arial,sans-serif;
+    vertical-align:top;
+    text-align:right;
+    padding-right: 5px;
+}
+
+td.showsheader
+{
+    font: 12pt bold "Gill Sans",Arial,sans-serif;
+    border-bottom: thin solid #019A9A;
+    color:#C5F7F7;
+}
+div.songstitle
+{
+    font: 12pt bold "Gill Sans",Arial,sans-serif;
+    border-bottom: thin solid #019A9A;
+    color:#C5F7F7;
+    margin-top: 4px;
+}
+
+table#picturestitletable
+{
+    width:100%;
+    margin-left: 16px;
+}
+
+table#newstitletable
+{
+    width:100%;
+    margin-left: 16px;
+}
+#newssectiontitle
+{
+    font: 12pt bold "Gill Sans",Arial,sans-serif;
+    border-bottom: thin solid #019A9A;
+    color:#C5F7F7;
+    margin-right: 12px;
+}
+#picturessectiontitle
+{
+    font: 12pt bold "Gill Sans",Arial,sans-serif;
+    border-bottom: thin solid #019A9A;
+    color:#C5F7F7;
+    margin-right: 12px;
+}
+div.newstitle
+{
+    font: 11pt bold "Gill Sans",Arial,sans-serif;
+    white-space: nowrap;
+    font-style:italic;
+    margin-left: 20px;
+}
+
+span.newstitledate
+{
+    color: #019a9a;
+}
+
+span.newstitletitle
+{
+    color:#C5F7F7;
+}
+div.newscontent
+{
+    text-align:justify;
+    font: 9pt "Gill Sans",Arial,sans-serif;
+    margin-left: 20px;
+    border-bottom: thin dotted #019A9A;
+    padding-bottom: 5px;
+    margin-bottom: 3px;
+}
+
+a.showsoldlink
+{
+    font: 10pt "Gill Sans",Arial,sans-serif;
+}
+
+.bio
+{
+    font: 10pt "Gill Sans",Arial,sans-serif;
+    text-align: justify;
+}
+
+div.biotitle
+{
+    font: 12pt bold "Gill Sans",Arial,sans-serif;
+    border-bottom: thin solid #019A9A;
+    color: #C5F7F7;
+    margin-top: 4px;
+}
+
+.bioLight
+{
+    font: 10pt "Gill Sans",Arial,sans-serif;
+    color: #C5F7F7;
+    text-align: justify;
+    width:100%;
+}
+
+.bioDark
+{
+    font: 10pt "Gill Sans",Arial,sans-serif;
+    color: #019A9A;
+    text-align: justify;
+    width:100%;
+}
+
+.biopix
+{
+    text-align: center;
+}
+
+table#listform
+{
+    text-align: left;
+    width:100%;
+}
+.required
+{
+    font: 10pt "Gill Sans",Arial,sans-serif; 
+    text-align:right;
+}
+.attributeinput
+{
+    font: 10pt "Gill Sans",Arial,sans-serif; 
+    text-align:left;
+}
+input.attributeinput
+{
+    border: solid thin #C5F7F7;
+}
+
+.contact
+{
+    font: 10pt "Gill Sans",Arial,sans-serif;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+.showdivider
+{
+    border-bottom: thin dotted #019A9A;
+    padding: 0px;
+    margin: 0px;
+}
+
+.showcomments
+{
+    font: 9pt "Gill Sans",Arial,sans-serif;
+    font-style: italic;
+    color: #C5F7F7;
+}
+
+.bookingquestion
+{
+    font: 12pt "Gill Sans",Arial,sans-serif;
+}
+
+.bookinganswer
+{
+    font: 9pt "Gill Sans",Arial,sans-serif;
+    font-style: italic;
+    margin-left: 2em;
+}
+
+a.bookinganswer
+{
+    border: none;
+}
+
+div.bookinganswer
+{
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: thin solid #019A9A;
+}
+
+.bookingheader
+{
+    font: 12pt bold "Gill Sans",Arial,sans-serif;
+    border-bottom: thin solid #019A9A;
+    color:#C5F7F7;
+}
+
+.photo
+{
+    padding: 10px;
+}
+
+.members
+{
+    font: 14pt bold "Gill Sans",Arial,sans-serif;
+    text-align: center;
+}
+.venues
+{
+    font: 12pt bold "Gill Sans",Arial,sans-serif;
+    font-style: italic;
+    text-align: center;
+}
+
+.pictures
+{
+    text-align: center;
+}
+
+div.songs
+{
+    font: 10pt "Gill Sans",Arial,sans-serf;
+}
+
+p.songslist
+{
+    margin-left: 20px;
+    font-size: 12pt;
+}
