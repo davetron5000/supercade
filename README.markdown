@@ -1,6 +1,6 @@
 # Supercade's Website 
 
-This is my old band's website (still up [here](http://www.supercadedc.com)), which, I suppose, someone else could easily customize to make their own band website. 
+This is my old band's website (no longer up), which, I suppose, someone else could easily customize to make their own band website. 
 
 The idea was to not have to host things like images (use Flickr) and to not have to maintain two "news" things (one on myspace, one on the site).
 
