@@ -17,7 +17,7 @@ Nothing special, but it works reasonably well and, more importantly, is my attem
 
 As a shittly local band, we end up playing at the same venues with the same bands, so I figured, for maximum laziness, I could enter in this stuff one time only and have the site just link it all up.  Also, this can be used to link to google maps and stuff, so the site is actually marginally useful (and moreso than myspace, since it's dog slow and doesn't link to maps [or at least didn't, as of 2005]).
 
-![Data Model](http://www.gliffy.com/pubdoc/1409661/L.jpg "Data Model")
+![Data Model](http://www.gliffy.com/pubdoc/1409661/L.jpg "Data Model") [link](http://www.gliffy.com/pubdoc/1409661/L.jpg)
 
 Nothing too complicated, but obviously there's a join table in there between `SHOW` and `BAND`.
 
